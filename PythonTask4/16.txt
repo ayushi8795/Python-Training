@@ -1,0 +1,12 @@
+16)
+1) 2
+
+2)
+after f
+after f?
+Traceback (most recent call last):
+  File "C:\Users\Ayushi\Desktop\abc.py", line 7, in <module>
+    a()
+  File "C:\Users\Ayushi\Desktop\abc.py", line 3, in a
+    f(x, 4)
+NameError: name 'f' is not defined

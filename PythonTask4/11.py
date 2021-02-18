@@ -1,0 +1,5 @@
+l = range(1,11)
+result = filter(lambda x: x%2 ==0,l)
+a = list(result)
+result = map (lambda x:x*x , a)
+print(list(result))
