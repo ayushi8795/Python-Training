@@ -1,0 +1,1 @@
+sys is used for importing argv module whose 1st argument is file name and next argument is filename.
